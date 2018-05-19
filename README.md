@@ -10,7 +10,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 
 ## The Big List
 
-* Aragon
 * $PAIRNAME
 * 5-Oct
 * 10kCoin
@@ -1031,7 +1030,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * Espana
 * EstesPark
 * EthanCoin
-* Ethereum
 * EthereumDark
 * Ethernet
 * Ethic
@@ -2462,7 +2460,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * Rings
 * RioJaneiro
 * RipoffCoin
-* Ripple
 * Robot Sex Nickels
 * RodeoDrive
 * Rogue
@@ -2613,7 +2610,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * SWCO
 * SYN
 * SYRIA
-* SYScoin
 * Sachsen
 * Safari
 * SafeCoins
@@ -2707,6 +2703,7 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * Singapore
 * Sixty
 * Skoda
+* SkyCoin
 * SkyDrive
 * Skynet
 * Skynet
