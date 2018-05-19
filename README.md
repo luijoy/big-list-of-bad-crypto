@@ -4,11 +4,15 @@
 
 ## Big List of Bad Crypto
 
+## Intention
+
+Cryptocurrencies have the potential to do many good things. Unfortunately the cryptosphere is also rife with bad actors looking to take advantage of new adopters. With this list the goal is to maintain an exhaustive and evolving list of scam coins and tokens. This list could be useful as a database for other applications to piggy back off of or just for investors to keep handy and check before getting involved with a project.
+
 ## The Big List
 
 * Aragon
 * $PAIRNAME
-5-Oct
+* 5-Oct
 * 10kCoin
 * 16BIT
 * 1CRedit
@@ -391,6 +395,7 @@
 * BirdCoin
 * BitCash
 * BitCent
+* BitConnect
 * BitCredits
 * BitLion
 * BitLitS
@@ -3293,12 +3298,12 @@
 
 ## Thanks to
 
-[Coin Scam List](http://www.coinscamlist.com/)
-[Dead coins](https://deadcoins.com/)
+* [Coin Scam List](http://www.coinscamlist.com/)
+* [Dead coins](https://deadcoins.com/)
 
 ## How to contribute
 
-Contributions are very welcome: [Submit bad crypto](https://github.com/luijoy/big-list-of-bad-crypto/issues/new)
+Contributions are very welcome: [submit bad crypto](https://github.com/luijoy/big-list-of-bad-crypto/issues/new)
 
 ## License
 
