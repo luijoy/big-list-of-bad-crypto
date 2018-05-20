@@ -91,7 +91,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * ARCoin
 * ARD
 * ARDER
-* ARDOR
 * ARDORCHINA
 * ARH
 * ARIKA
@@ -247,7 +246,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * BBQCoin
 * BCAT
 * BCEAO
-* BCO
 * BDG
 * BDSMCoin
 * BEA
@@ -293,7 +291,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * BLUE
 * BM
 * BN
-* BNB
 * BOARD
 * BOAT
 * BOATS
