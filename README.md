@@ -857,7 +857,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * DarthVader
 * DataBank
 * Database
-* Datacoin
 * Davao
 * Davidoff
 * DeafDollars
@@ -2708,7 +2707,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * Skywalker
 * Slate
 * SleakCoin
-* Slimcoin
 * SlocCoin
 * SlothCoin
 * SlotsCoins
