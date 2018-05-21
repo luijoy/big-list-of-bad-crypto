@@ -788,6 +788,7 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * DEUR
 * DFQ
 * DGCS
+* DGM
 * DIATE
 * DIBS
 * DIC
@@ -1022,6 +1023,7 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * EquinoxCoin
 * Ermiscoin
 * Erzgebirge
+* ERZ
 * Escrow
 * Espana
 * EstesPark
@@ -2482,6 +2484,7 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * SAHARA
 * SALON
 * SAR
+* SAROS
 * SAV
 * SAfrica
 * SCAN
