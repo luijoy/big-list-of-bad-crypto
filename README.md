@@ -3263,6 +3263,13 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * XTN
 * XUP
 * XVE
+* XVG
+  * Evidence
+  1. ["Network Attack on XVG / VERGE"](https://bitcointalk.org/index.php?topic=3256693.0)
+  2. ["Verge Cryptocurrency Suffers Its Second Hack in Less Than Two Months"](https://bitcoinmagazine.com/articles/verge-cryptocurrency-suffers-its-second-hack-less-two-months/)
+  3. ["Hackers exploit Verge blockchain vulnerabilities to steal over $1.7M — again"](https://thenextweb.com/hardfork/2018/05/22/hackers-verge-blockchain-steal-1-7m/)
+  4. ["Is Verge the Next BitConnect? Ongoing Inconsistencies Alert Crypto Community"](https://cryptoslate.com/verge-inconsistencies/)
+
 * XVI
 * XVP
 * XXC
