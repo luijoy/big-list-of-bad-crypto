@@ -2778,7 +2778,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * Sterling
 * Stockholm
 * Stone
-* StoopidCoin
 * Storage
 * StoreCoins
 * StorjcoinX
