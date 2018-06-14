@@ -244,7 +244,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * BATL
 * BBL
 * BBQCoin
-* BCAT
 * BCEAO
 * BDG
 * BDSMCoin
