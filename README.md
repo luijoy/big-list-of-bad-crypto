@@ -2427,7 +2427,6 @@ Cryptocurrencies have the potential to do many good things. Unfortunately the cr
 * Random
 * RasPi
 * Rasta
-* Raven
 * RawCoin
 * Razor
 * Razor
